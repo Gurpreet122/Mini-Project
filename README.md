@@ -8,33 +8,24 @@ This project is a Python-based web scraper that extracts data of smartphones pri
 
 ## 🚀 Features
 
-- ✅ Automatically scrapes smartphone listings under ₹30,000
-- ✅ Extracts key product details:
+-  Automatically scrapes smartphone listings under ₹30,000
+-  Extracts key product details:
   - Name
   - Price
   - Ratings
   - Number of Reviews
   - Key Specifications
   - Product URL
-- ✅ Handles multiple pages (pagination)
-- ✅ Stores data in CSV and JSON formats
-- ✅ Built using clean and modular Python code
-- ✅ Follows ethical scraping practices
+-  Handles multiple pages (pagination)
+-  Stores data in CSV and JSON formats
+-  Built using clean and modular Python code
+-  Follows ethical scraping practices
 
 ---
 
-## 🛠️ Tech Stack
 
-- **Python 3.8+**
-- [`requests`](https://docs.python-requests.org/)
-- [`BeautifulSoup (bs4)`](https://www.crummy.com/software/BeautifulSoup/)
-- [`pandas`](https://pandas.pydata.org/)
-- `re` (Regular Expressions)
-- `time` and `random` (for polite scraping)
 
----
-
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 .
